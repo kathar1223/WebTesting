@@ -62,7 +62,7 @@
 							<execution>
 								<phase>integration-test</phase>
 								<goals>
-									<goal>testing</goal>
+									<goal>test</goal>
 								</goals>
 							</execution>
 						</executions>
